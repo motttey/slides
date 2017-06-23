@@ -1,2 +1,0 @@
-# slides
-for pitch slide
